@@ -3,10 +3,6 @@
 ## Project Description
 A solution for tracking the movement and ownership of vehicles in the supply chain. This project leverages blockchain technology to ensure transparency, security, and immutability in vehicle tracking.
 
-## Smart Contract Address
-*(To be updated after deployment)*  
-*Example:* `
-
 ## Features
 - **Immutable Storage:** Project title and description are securely stored on the blockchain.
 - **Transparency:** Anyone can access the project details through the contract.
